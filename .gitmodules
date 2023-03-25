@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "nomclust"]
+	path = nomclust
+	url = https://github.com/cran/nomclust
+	shallow = true
+	registered = true
